@@ -81,5 +81,5 @@ test:
 production:
   <<: *default
   database: ninjat_production
-  username: ninjat
+  # username: ninjat
   password: 
